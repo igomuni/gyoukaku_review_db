@@ -1,0 +1,14 @@
+# Data files
+data/download/
+data/raw/
+data/normalized/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Analysis files (if needed)
+analysis/*.csv
